@@ -131,7 +131,7 @@ p:last-child { margin-bottom: 0; }
     background: rgba(0, 0, 0, 0.15);
 }
 .tm-banner-bg {
-    background:  url("/img/Beachbanner.jpg") top no-repeat; 
+    background:  url("https://github.com/LeeJieHeng/WebFUN/blob/c17c21eac929a65fe89ae1d922a74461dec18c17/img/BeachBanner2%20copy.png") top no-repeat; 
     min-height: 720px;
     position: relative;
 }
